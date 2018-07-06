@@ -1,7 +1,7 @@
 # Theory Lighting Important Shader
 
-##Lambert
+## Lambert
 
-##Phong Specular
+## Phong Specular
 
-##BlinnPhong Specular
+## BlinnPhong Specular
